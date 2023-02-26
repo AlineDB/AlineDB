@@ -42,4 +42,4 @@ Je peux dès à présent proposer mes skills et mon expérience dans divers doma
 
 ## Portfolio et CV
 
-Plus d'informations sur mon parcours dans [mon CV]() et [mon portfolio]() 🚀
+Plus d'informations sur mon parcours dans [mon CV](https://cv.aline-db.be/) et [mon portfolio](https://aline-db.be/) 🚀
